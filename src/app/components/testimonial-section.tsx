@@ -45,7 +45,7 @@ export default function TestimonialSection() {
         <div className="text-center mb-6">
           <h3 className="text-white text-sm md:text-base font-medium">Hear it from a Customer</h3>
           <h2 className="text-white text-2xl md:text-3xl lg:text-4xl font-bold mt-2">
-            "{currentTestimonial.highlightQuote}"
+            &quot;{currentTestimonial.highlightQuote}&quot;
           </h2>
         </div>
 
@@ -99,11 +99,10 @@ export default function TestimonialSection() {
           </div>
 
           <button className="mt-8 bg-white text-gray-700 px-6 py-2 rounded-md text-sm font-medium hover:bg-gray-50 transition-colors">
-            People's Choice
+            People&apos;s Choice
           </button>
         </div>
       </div>
     </section>
   )
 }
-

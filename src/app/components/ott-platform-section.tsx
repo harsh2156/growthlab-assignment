@@ -10,7 +10,7 @@ export default function OttPlatformSection() {
           </h2>
           <p className="text-gray-600 max-w-3xl mx-auto text-sm md:text-base">
             Get your videos or entire library on your website. Give your video repository a face with drag-and-drop UI
-            that's elegant, simple, and organized. Wow your guests today.
+            that&apos;s elegant, simple, and organized. Wow your guests today.
           </p>
         </div>
 
@@ -28,4 +28,3 @@ export default function OttPlatformSection() {
     </section>
   )
 }
-

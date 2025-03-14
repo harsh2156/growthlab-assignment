@@ -105,10 +105,10 @@ export default function Home() {
         <section className="container mx-auto px-4 pt-12 pb-20">
           <div className="max-w-4xl mx-auto text-center mb-8">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800 mb-2">
-              Unlock video's full potential;
+              Unlock video&apos;s full potential;
             </h1>
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-8">
-              <span className="text-[#e97c52]">half of marketers</span> haven't yet!
+              <span className="text-[#e97c52]">half of marketers</span> haven&apos;t yet!
             </h2>
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-3 mb-6">
@@ -308,4 +308,3 @@ export default function Home() {
     </div>
   )
 }
-
